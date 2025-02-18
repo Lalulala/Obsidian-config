@@ -11,10 +11,16 @@
             "id": "6e264d9b49bc53e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "01 强化学习/3 - Chapter 3 Optimal State Values and Bellman Optimality Equation.pdf",
+                "page": 2,
+                "left": -8,
+                "top": 383,
+                "zoom": 1.983113715318609
+              },
+              "icon": "lucide-file-text",
+              "title": "3 - Chapter 3 Optimal State Values and Bellman Optimality Equation"
             }
           }
         ]
@@ -74,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5096130371094
   },
   "right": {
     "id": "0789ddbe5c3e6c62",
@@ -183,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +207,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:打开Git源代码管理": false,
       "obsidian42-brat:BRAT": false,
-      "i18n:I18N": false
+      "i18n:I18N": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "6e264d9b49bc53e6",
   "lastOpenFiles": [
+    "01 强化学习/Chapter3.md",
+    "01 强化学习/3 - Chapter 3 Optimal State Values and Bellman Optimality Equation.pdf",
+    "01 强化学习/img/Pasted image 20250218111657.png",
+    "01 强化学习/Chapter2.md",
+    "01 强化学习/Chapter1.md",
+    "01 强化学习/img/Pasted image 20250218110259.png",
+    "01 强化学习/img/Pasted image 20250218105938.png",
+    "01 强化学习/img/Pasted image 20250218105731.png",
+    "01 强化学习/img/Pasted image 20250218105636.png",
+    "01 强化学习/img/Pasted image 20250218105623.png",
+    "01 强化学习/img/Pasted image 20250218105605.png",
+    "01 强化学习/img/Pasted image 20250218105314.png",
+    "01 强化学习/img/Pasted image 20250218105235.png",
+    "01 强化学习/img/Pasted image 20250218104628.png",
+    "01 强化学习/img",
     "未命名.md",
     "未命名 1.md",
     "强化学习/未命名.md",
