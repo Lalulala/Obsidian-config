@@ -8,16 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "448991fd3ba6a61a",
+            "id": "8c2e295bf98471d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 强化学习/Chapter1 基本概念.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Chapter1 基本概念"
+            }
+          },
+          {
+            "id": "ba98880efa28f76d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01 强化学习/教材/3 - Chapter 6 Stochastic Approximation.pdf",
+                "page": 10,
+                "left": -14,
+                "top": 357,
+                "zoom": 1.0356540495501247
+              },
+              "icon": "lucide-file-text",
+              "title": "3 - Chapter 6 Stochastic Approximation"
+            }
+          },
+          {
+            "id": "ca2d403af94cda97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 强化学习/chapter5 蒙特卡洛方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "chapter5 蒙特卡洛方法"
+            }
+          },
+          {
+            "id": "66dad356d609b05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 强化学习/Chapter7 时序差分方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter7 时序差分方法"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -74,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5096130371094
+    "width": 300.5096130371094,
+    "collapsed": true
   },
   "right": {
     "id": "0789ddbe5c3e6c62",
@@ -131,20 +181,6 @@
             }
           },
           {
-            "id": "1a98a3a833f75056",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
             "id": "b00c4dea73ec34c4",
             "type": "leaf",
             "state": {
@@ -169,16 +205,6 @@
             }
           },
           {
-            "id": "64105a7ec6321b7f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
             "id": "d4343729bfb433ed",
             "type": "leaf",
             "state": {
@@ -187,16 +213,43 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "ac06c06a049ddc8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 强化学习/Chapter6 随机近似与随机梯度下降.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Chapter6 随机近似与随机梯度下降 的大纲"
+            }
+          },
+          {
+            "id": "47175ffa4f0576f0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "pdf-plus:PDF++: 切换自动复制": true,
       "pdf-plus:PDF++: 切换自动对焦": true,
       "pdf-plus:PDF++: 切换自动粘贴": true,
@@ -217,27 +270,37 @@
       "pkmer:Open Pkmer Market": true
     }
   },
-  "active": "448991fd3ba6a61a",
+  "active": "66dad356d609b05e",
   "lastOpenFiles": [
+    "Pasted image 20250225145414.png",
+    "Pasted image 20250225145323.png",
+    "Pasted image 20250225145317.png",
+    "01 强化学习/chapter5 蒙特卡洛方法.md",
+    "01 强化学习/Chapter3 贝尔曼最优公式.md",
+    "01 强化学习/Chapter7 时序差分方法.md",
+    "01 强化学习/img/Pasted image 20250225145153.png",
+    "01 强化学习/img/Pasted image 20250225144818.png",
+    "01 强化学习/img/Pasted image 20250225144620.png",
+    "01 强化学习/img/Pasted image 20250225144534.png",
+    "01 强化学习/slides/L7-Temporal-difference learning.pdf",
+    "01 强化学习/slides",
+    "01 强化学习/教材/3 - Chapter 6 Stochastic Approximation.pdf",
+    "01 强化学习/Chapter6 随机近似与随机梯度下降.md",
+    "01 强化学习/img/Pasted image 20250224165132.png",
+    "01 强化学习/img/Pasted image 20250224163319.png",
+    "01 强化学习/img/Pasted image 20250224160753.png",
+    "01 强化学习/test.md",
+    "01 强化学习/教材",
+    "01 强化学习/教材/3 - Chapter 5 Monte Carlo Methods.pdf",
+    "01 强化学习/img/Pasted image 20250224131430.png",
+    "01 强化学习/Chapter1 基本概念.md",
+    "01 强化学习/Chapter2 贝尔曼公式.md",
+    "01 强化学习/Chapter4 值迭代与策略迭代.md",
     "未命名.canvas",
     "01 强化学习/Chapter3.md",
-    "01 强化学习/img/Pasted image 20250218163044.png",
-    "01 强化学习/img/Pasted image 20250218163001.png",
-    "01 强化学习/img/Pasted image 20250218162827.png",
-    "01 强化学习/img/Pasted image 20250218162744.png",
-    "01 强化学习/img/Pasted image 20250218162237.png",
-    "01 强化学习/img/Pasted image 20250218161743.png",
-    "01 强化学习/img/Pasted image 20250218155028.png",
-    "01 强化学习/img/Pasted image 20250218154729.png",
-    "01 强化学习/img/Pasted image 20250218154628.png",
-    "01 强化学习/img/Pasted image 20250218154600.png",
-    "01 强化学习/Chapter4 值迭代与策略迭代.md",
-    "01 强化学习/Chapter3 贝尔曼最优公式.md",
-    "01 强化学习/Chapter2 贝尔曼公式.md",
-    "01 强化学习/Chapter1 基本概念.md",
     "01 强化学习/Chapter2.md",
     "01 强化学习/Chapter1.md",
-    "01 强化学习/3 - Chapter 3 Optimal State Values and Bellman Optimality Equation.pdf",
+    "01 强化学习/教材/3 - Chapter 3 Optimal State Values and Bellman Optimality Equation.pdf",
     "2025-02-18.md",
     "01 强化学习/img",
     "未命名.md",
